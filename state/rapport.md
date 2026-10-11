@@ -1,7 +1,7 @@
 # JET Gold Intelligence
-Mis à jour : 2026-10-11 03:29 UTC  (marché de l'or fermé)
+Mis à jour : 2026-10-11 04:29 UTC  (marché de l'or fermé)
 
-**Biais macro SCALP : +4 (NEUTRE)**  |  **SWING : -33 (NEUTRE)**  |  actualités : -14
+**Biais macro SCALP : +5 (NEUTRE)**  |  **SWING : -32 (NEUTRE)**  |  actualités : -11
 
 ## Signaux
 | Mode | Sens | Technique | Macro | Note finale |
@@ -30,5 +30,5 @@ Mis à jour : 2026-10-11 03:29 UTC  (marché de l'or fermé)
 - [News-Fed] US Long-Term Treasury Yields Surge — Term Premium Hits 12-Year High - The Korea Daily (-1.5)
 - [News-Or] Gold Price on 10 October 2026 - Gold Price (+0.0)
 - [News-Or] Gold Price Forecast: XAU/USD Rebounds as Bulls Defend Critical Support - FOREX.com (+0.0)
+- [News-Or] Gold Futures Streaming Chart - Investing.com (+0.0)
 - [News-Or] Veteran Trader Gives Critical Warning for Gold Price - Yahoo Finance (+0.0)
-- [News-Or] Veteran Trader Gives Critical Warning for Gold Price - Cryptonews.net (+0.0)
