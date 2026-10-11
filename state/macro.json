@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-11T22:27:55.512073+00:00",
- "scalp_macro": 4.8,
- "swing_macro": -30.3,
- "news": -3.4,
+ "updated": "2026-10-11T23:26:46.210180+00:00",
+ "scalp_macro": 7.3,
+ "swing_macro": -28.0,
+ "news": 5.8,
  "market_closed": false,
  "signals": {
   "SCALP": {
    "dir": 1,
-   "tech": 0,
-   "final": 0
+   "tech": 3,
+   "final": 3
   },
   "SWING": {
    "dir": -1,

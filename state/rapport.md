@@ -1,13 +1,13 @@
 # JET Gold Intelligence
-Mis à jour : 2026-10-11 22:27 UTC
+Mis à jour : 2026-10-11 23:26 UTC
 
-**Biais macro SCALP : +5 (NEUTRE)**  |  **SWING : -30 (NEUTRE)**  |  actualités : -3
+**Biais macro SCALP : +7 (NEUTRE)**  |  **SWING : -28 (NEUTRE)**  |  actualités : +6
 
 ## Signaux
 | Mode | Sens | Technique | Macro | Note finale |
 |---|---|---|---|---|
-| SCALP | BUY | 0/5 | +5 | **0/5**  |
-| SWING | SELL | 0/5 | -30 | **0/5**  |
+| SCALP | BUY | 3/5 | +7 | **3/5**  |
+| SWING | SELL | 0/5 | -28 | **0/5**  |
 
 ## Actifs corrélés (effet sur l'or)
 | Actif | Mouvement | Effet scalp | Effet swing |
@@ -15,9 +15,9 @@ Mis à jour : 2026-10-11 22:27 UTC
 | DXY | stable | défavorable | défavorable |
 | US10Y | baisse | favorable | défavorable |
 | EURUSD | stable | neutre | défavorable |
-| USDJPY | stable | neutre | défavorable |
+| USDJPY | stable | favorable | défavorable |
 | AUDUSD | hausse | favorable | neutre |
-| ARGENT | hausse | favorable | neutre |
+| ARGENT | stable | favorable | neutre |
 | PETROLE | hausse | favorable | neutre |
 | SP500 | stable | neutre | défavorable |
 | VIX | stable | neutre | neutre |
@@ -26,11 +26,11 @@ Mis à jour : 2026-10-11 22:27 UTC
 - aucune
 
 ## Titres qui pèsent sur l'or (10 h)
-- [News-Fed] Fed minutes: Another rate hike likely coming this year to combat persistent inflation - ABC7 Los Angeles (-2.0)
+- [News-Fed] Fed minutes: Another rate hike likely coming this year to combat persistent inflation - ABC7 Chicago (-2.0)
 - [News-Fed] St. Louis Fed: New data shows apprenticeships increasing - Talk Business & Politics (+1.5)
-- [News-Fed] U.S. stocks hit record highs despite inflation and geopolitical risks, led by strong earnings and stable bond markets. - Pluang (+1.0)
+- [FXStreet] US President Donald Trump says Russia and Ukraine agree to an ‘energy ceasefire’ (-1.0)
+- [FXStreet] Middle East War updates: New attack launched on Saudi airport (+1.0)
+- [News-Or] Gold and silver whiplash as Treasury yields smash 2007 highs and Gulf war simmers - Startup Fortune (+1.0)
 - [News-Or] Gold Price Forecast: XAU/USD Plunges 12.4% Toward Critical Support - StoneX (+0.0)
 - [News-Or] Gold Price Outlook: Bears Target 4,000 Before a Potential Rebound - Forex Factory (+0.0)
 - [News-Or] Aya Gold & Silver Inc. (AYA.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada (+0.0)
-- [News-Or] Gold price prediction for Monday, October 12: Check latest gold rate predictions - The Economic Times (+0.0)
-- [News-Or] A Record $31 Billion Gold Rush Is Sending Investors a Strange Warning About the Bond Market - 24/7 Wall St. (+0.0)
