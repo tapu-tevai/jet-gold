@@ -1,7 +1,7 @@
 # JET Gold Intelligence
-Mis à jour : 2026-10-11 14:27 UTC  (marché de l'or fermé)
+Mis à jour : 2026-10-11 15:27 UTC  (marché de l'or fermé)
 
-**Biais macro SCALP : +9 (NEUTRE)**  |  **SWING : -29 (NEUTRE)**  |  actualités : +5
+**Biais macro SCALP : +9 (NEUTRE)**  |  **SWING : -29 (NEUTRE)**  |  actualités : +4
 
 ## Signaux
 | Mode | Sens | Technique | Macro | Note finale |
@@ -29,6 +29,6 @@ Mis à jour : 2026-10-11 14:27 UTC  (marché de l'or fermé)
 - [News-Or] Crude oil futures brace for volatility amid geopolitical uncertainties - Business Standard (+1.0)
 - [News-Fed] U.S. stocks hit record highs despite inflation and geopolitical risks, led by strong earnings and stable bond markets. - Pluang (+1.0)
 - [News-Fed] Philippine peso seen trading sideways as U.S. inflation data and Middle East tensions steer sentiment - Traders Union (+1.0)
+- [News-Or] A Record $31 Billion Gold Rush Is Sending Investors a Strange Warning About the Bond Market - 24/7 Wall St. (+0.0)
 - [News-Or] Will Gold Boom Again Like in 2025? - Robin J Brooks | Substack (+0.0)
 - [News-Or] UBS Projects Gold at $5,400 by September 2027 Despite Near-Term Risk of $4,000 Retest - Yahoo Finance UK (+0.0)
-- [News-Or] Gold, Silver Set For Range-Bound Week As Rupee Weakness Offers Support: Analysts - NDTV Profit (+0.0)
