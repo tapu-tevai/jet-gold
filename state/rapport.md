@@ -1,7 +1,7 @@
 # JET Gold Intelligence
-Mis à jour : 2026-10-11 05:27 UTC  (marché de l'or fermé)
+Mis à jour : 2026-10-11 06:33 UTC  (marché de l'or fermé)
 
-**Biais macro SCALP : +7 (NEUTRE)**  |  **SWING : -31 (NEUTRE)**  |  actualités : -3
+**Biais macro SCALP : +7 (NEUTRE)**  |  **SWING : -31 (NEUTRE)**  |  actualités : -2
 
 ## Signaux
 | Mode | Sens | Technique | Macro | Note finale |
