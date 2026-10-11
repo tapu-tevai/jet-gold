@@ -1,7 +1,7 @@
 # JET Gold Intelligence
-Mis à jour : 2026-10-11 08:29 UTC  (marché de l'or fermé)
+Mis à jour : 2026-10-11 09:28 UTC  (marché de l'or fermé)
 
-**Biais macro SCALP : +7 (NEUTRE)**  |  **SWING : -31 (NEUTRE)**  |  actualités : -4
+**Biais macro SCALP : +7 (NEUTRE)**  |  **SWING : -31 (NEUTRE)**  |  actualités : -3
 
 ## Signaux
 | Mode | Sens | Technique | Macro | Note finale |
@@ -27,8 +27,8 @@ Mis à jour : 2026-10-11 08:29 UTC  (marché de l'or fermé)
 - [News-Fed] US Long-Term Treasury Yields Surge — Term Premium Hits 12-Year High - The Korea Daily (-1.5)
 - [News-Or] Gold Price on 10 October 2026 - Gold Price (+0.0)
 - [News-Or] Aya Gold & Silver Inc. (AYA.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada (+0.0)
-- [News-Or] Veteran Trader Gives Critical Warning for Gold Price - Cryptonews.net (+0.0)
-- [News-Or] Gold Price Outlook: Bears Target 4,000 Before a Potential Rebound - Forex Factory (+0.0)
 - [News-Or] Osisko Gold: I Tried To Break The Bull Case, And I'm Still Buying (NYSE:OGG) - Seeking Alpha (+0.0)
 - [News-Or] Gold jewellers brace for Q3 after growth cools in Q2 - TradingView (+0.0)
+- [News-Or] Shafaq News..Gold prices fall in Baghdad, rise in Erbil - شفق نيوز (+0.0)
 - [News-Or] Making sense of gold’s counterintuitive behaviour - The Globe and Mail (+0.0)
+- [News-Or] Gold Price Holds at JD85.40 per Gram in Jordan... - Jordan News (+0.0)
