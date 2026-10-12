@@ -29,9 +29,4 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           MIN_STARS: "4"
         run: python gold_bot.py
-      - name: Sauvegarder l'état et le rapport
-        run: |
-          git config user.name "jet-gold"
-          git config user.email "jet-gold@users.noreply.github.com"
-          git add state/
-          git diff --staged --quiet || (git commit -m "maj" && git pull --rebase -q && git push)
+      
