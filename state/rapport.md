@@ -1,13 +1,13 @@
 # JET Gold Intelligence
-Mis à jour : 2026-10-12 06:39 UTC
+Mis à jour : 2026-10-12 06:51 UTC
 
-**Biais macro SCALP : +34 (NEUTRE)**  |  **SWING : -10 (NEUTRE)**  |  actualités : +95
+**Biais macro SCALP : +33 (NEUTRE)**  |  **SWING : -11 (NEUTRE)**  |  actualités : +89
 
 ## Signaux
 | Mode | Sens | Technique | Macro | Note finale |
 |---|---|---|---|---|
-| SCALP | BUY | 2/5 | +34 | **2/5**  |
-| SWING | SELL | 1/5 | -10 | **1/5**  |
+| SCALP | BUY | 0/5 | +33 | **0/5**  |
+| SWING | SELL | 1/5 | -11 | **1/5**  |
 
 ## Actifs corrélés (effet sur l'or)
 | Actif | Mouvement | Effet scalp | Effet swing |
