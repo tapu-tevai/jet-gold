@@ -1,24 +1,24 @@
 # JET Gold Intelligence
-Mis à jour : 2026-10-11 23:26 UTC
+Mis à jour : 2026-10-12 00:41 UTC
 
-**Biais macro SCALP : +7 (NEUTRE)**  |  **SWING : -28 (NEUTRE)**  |  actualités : +6
+**Biais macro SCALP : +17 (NEUTRE)**  |  **SWING : -26 (NEUTRE)**  |  actualités : +4
 
 ## Signaux
 | Mode | Sens | Technique | Macro | Note finale |
 |---|---|---|---|---|
-| SCALP | BUY | 3/5 | +7 | **3/5**  |
-| SWING | SELL | 0/5 | -28 | **0/5**  |
+| SCALP | BUY | 2/5 | +17 | **2/5**  |
+| SWING | SELL | 0/5 | -26 | **0/5**  |
 
 ## Actifs corrélés (effet sur l'or)
 | Actif | Mouvement | Effet scalp | Effet swing |
 |---|---|---|---|
-| DXY | stable | défavorable | défavorable |
+| DXY | baisse | favorable | défavorable |
 | US10Y | baisse | favorable | défavorable |
-| EURUSD | stable | neutre | défavorable |
-| USDJPY | stable | favorable | défavorable |
-| AUDUSD | hausse | favorable | neutre |
-| ARGENT | stable | favorable | neutre |
-| PETROLE | hausse | favorable | neutre |
+| EURUSD | hausse | favorable | défavorable |
+| USDJPY | baisse | favorable | défavorable |
+| AUDUSD | stable | neutre | neutre |
+| ARGENT | hausse | favorable | neutre |
+| PETROLE | baisse | défavorable | neutre |
 | SP500 | stable | neutre | défavorable |
 | VIX | stable | neutre | neutre |
 
@@ -31,6 +31,6 @@ Mis à jour : 2026-10-11 23:26 UTC
 - [FXStreet] US President Donald Trump says Russia and Ukraine agree to an ‘energy ceasefire’ (-1.0)
 - [FXStreet] Middle East War updates: New attack launched on Saudi airport (+1.0)
 - [News-Or] Gold and silver whiplash as Treasury yields smash 2007 highs and Gulf war simmers - Startup Fortune (+1.0)
+- [FXStreet] Australian Dollar edges higher to near 0.7000 on weak US Sentiment (+0.0)
 - [News-Or] Gold Price Forecast: XAU/USD Plunges 12.4% Toward Critical Support - StoneX (+0.0)
 - [News-Or] Gold Price Outlook: Bears Target 4,000 Before a Potential Rebound - Forex Factory (+0.0)
-- [News-Or] Aya Gold & Silver Inc. (AYA.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada (+0.0)
