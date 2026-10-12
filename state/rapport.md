@@ -1,24 +1,24 @@
 # JET Gold Intelligence
-Mis à jour : 2026-10-12 06:16 UTC
+Mis à jour : 2026-10-12 06:39 UTC
 
-**Biais macro SCALP : +28 (NEUTRE)**  |  **SWING : -11 (NEUTRE)**  |  actualités : +94
+**Biais macro SCALP : +34 (NEUTRE)**  |  **SWING : -10 (NEUTRE)**  |  actualités : +95
 
 ## Signaux
 | Mode | Sens | Technique | Macro | Note finale |
 |---|---|---|---|---|
-| SCALP | BUY | 2/5 | +28 | **2/5**  |
-| SWING | SELL | 1/5 | -11 | **1/5**  |
+| SCALP | BUY | 2/5 | +34 | **2/5**  |
+| SWING | SELL | 1/5 | -10 | **1/5**  |
 
 ## Actifs corrélés (effet sur l'or)
 | Actif | Mouvement | Effet scalp | Effet swing |
 |---|---|---|---|
-| DXY | stable | défavorable | défavorable |
+| DXY | stable | favorable | défavorable |
 | US10Y | baisse | favorable | défavorable |
-| EURUSD | stable | neutre | défavorable |
-| USDJPY | stable | neutre | défavorable |
+| EURUSD | stable | favorable | défavorable |
+| USDJPY | stable | défavorable | défavorable |
 | AUDUSD | stable | neutre | neutre |
 | ARGENT | stable | défavorable | neutre |
-| PETROLE | stable | neutre | neutre |
+| PETROLE | hausse | favorable | neutre |
 | SP500 | stable | neutre | défavorable |
 | VIX | stable | neutre | neutre |
 
